@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # slate
 This application was generated using JHipster 4.5.2, you can find documentation and help at [https://jhipster.github.io/documentation-archive/v4.5.2](https://jhipster.github.io/documentation-archive/v4.5.2).
 
@@ -153,3 +154,7 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [Protractor]: https://angular.github.io/protractor/
 [Leaflet]: http://leafletjs.com/
 [DefinitelyTyped]: http://definitelytyped.org/
+=======
+# slatedigital
+Slate Digital Web Platform
+>>>>>>> 4af73f5510ad18dc3c98177567282f14aa816dc7
