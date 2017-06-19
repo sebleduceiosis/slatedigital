@@ -39,7 +39,8 @@ notifications:
     on_failure: always
     on_start: false
 deploy:
-  provider: cloudfoundry
+  edge: true
+  provider: bluemixcloudfoundry
   api: https://api.ng.bluemix.net
   username: yohan.ginon@eiosis.com
   password:
