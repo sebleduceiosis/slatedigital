@@ -44,7 +44,7 @@ deploy:
   username: yohan.ginon@eiosis.com
   password:
     secure: owk6+5V5oFFFGOqtN/gIFMh+a7TU6pRKlU15RVDLyghdPn+pvoiQ2nGvr3oNlXKZCSql+GT59zOrno4unBvmpWJEoHK355lhFW368VcsrZPCKRAVl2csP7FA7lF+SQ0Gduuk3AowwIBSSwWd0bwSWdOsRI38FuiWyWOVR1cJabetOzsndJUjlp0ZmL4Tq1hVpeG3eVQuNOCuDCEGissua3THohHBULhSAFW1eW9GK+78ljEzOg/QmK4Dm9vvSLP0cSECHAY5t0WcU5erADlNKkTrvT8mCoo889BrItsqeYwK4eFg/gyCzSduoshBP0G9kzUJs6+Q9tDY6G81gJ11ubt2aVGUKw/juhsi0dtxyd+AdACX0yqsZZGsog/ac3cSwghfotWPGgCFRr+imO74ooyxDtW9LCIAY41lvudotN8RNOuCzWG2MJOsnYYolgT6okv/+ZAfj8j2/qUo6GqOSdyuDWhGpF1JljLf+mQB7qHK0wwVLebHmlvS4kmJ6x2PLqm6Hlkfg/8M/ogCOUZSJfHyjySw6XqtMJwnwOp+xukmA/w9GtZJcBMUi+gLYC05rYzRDavFx78UMJzVw0stq7Msbtj7UUJfKCI7JyrCvsqeHWjJad/Trfrf/oKDoD1/FYqKdNBurJVIf3K2uS4eIuZP3ZMK9/aUWwP3YkAIlu0=
-  organization: slate
+  organization: SlateDigital
   space: dev
   on:
     repo: yohan-ginon/slatedigital
