@@ -41,7 +41,6 @@ notifications:
 deploy:
   edge: true
   provider: bluemixcloudfoundry
-  manifest: ./deploy/cloudfoundry/manifest.yml
   api: https://api.ng.bluemix.net
   username: yohan.ginon@eiosis.com
   password:
