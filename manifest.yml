@@ -1,5 +1,5 @@
 ---
-path: target/*.war
+path: target/slate-0.0.1-SNAPSHOT.war
 instances: 1
 buildpack: https://github.com/cloudfoundry/java-buildpack
 services:
